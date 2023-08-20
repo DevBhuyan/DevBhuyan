@@ -24,8 +24,10 @@
     Here are some of my noteworthy projects:
 </p>
 
-- [Project 1](https://github.com/yourusername/project1) - Brief project description.
-- [Project 2](https://github.com/yourusername/project2) - Brief project description.
+- [SkinSeg](https://github.com/DevBhuyan/Unsup-Segmentation) - An experiment to create an unsupervised segmentation pipeline that can create segmentation masks of any given skin lesion image from the ISIC datasets. [Learn more](https://drive.google.com/file/d/176D-SWsVus7_6dfPSnIhaun2YDx_5Nv_/view)
+- [Reinforcement-Learning powered tic-tac-toe bot](https://github.com/DevBhuyan/RL-bot-for-tictactoe) - This bot quickly develops a personalized winning strategy by learning the player’s moves. [See it in action](https://github.com/DevBhuyan/RL-bot-for-tictactoe)
+- [Minesweeper](https://github.com/DevBhuyan/minesweeper) - My implementation of the classic minesweeper game using Python and TKinter. You can download the binary [here](https://github.com/DevBhuyan/minesweeper/blob/main/minesweeper.bin).
+- [IQATool](https://github.com/DevBhuyan/IQATool) - Another one of my favourites, this application was used to simulate various kinds of noises, and their cleaning methods in the context of Satellite and Aerial images. Was part of an internship work at NITK, Surathkal.
 
 <h2 align="center">Stats 📊</h2>
 
