@@ -1,16 +1,45 @@
-### Hi there 👋
+<h1 align="center">
+    <img src="YOUR_PROFILE_IMAGE_URL" alt="Your Name" />
+</h1>
 
-<!--
-**DevBhuyan/DevBhuyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="YOUR_WEBSITE_URL">Portfolio</a> |
+    <a href="YOUR_LINKEDIN_URL">LinkedIn</a> |
+    <a href="YOUR_TWITTER_URL">Twitter</a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+    Hi there! 👋 I'm [Your Name], an Electronics Engineer with a passion for Machine Learning and AI. Welcome to my GitHub profile!
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Technical Skills 🚀</h2>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,tensorflow,linux" alt="Technical Skills"/>
+</div>
+
+<h2 align="center">Projects 🛠️</h2>
+
+<p align="center">
+    Here are some of my noteworthy projects:
+</p>
+
+- [Project 1](https://github.com/yourusername/project1) - Brief project description.
+- [Project 2](https://github.com/yourusername/project2) - Brief project description.
+
+<h2 align="center">Stats 📊</h2>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" />
+</div>
+
+<p align="center">
+    <a href="https://profile-counter.glitch.me/yourusername/count.svg">
+        <img src="https://profile-counter.glitch.me/yourusername/count.svg" alt="Profile Views"/>
+    </a>
+</p>
+
+<p align="center">
+    <img height="120" src="YOUR_LOGO_IMAGE_URL" alt="Your Logo" />
+</p>
