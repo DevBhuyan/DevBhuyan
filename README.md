@@ -1,21 +1,28 @@
 <h1 align="center">
-    <img src="YOUR_PROFILE_IMAGE_URL" alt="Dev Bhuyan" />
+    Dev Bhuyan
 </h1>
 
 <p align="center">
-    <a href="https://stackoverflow.com/users/12171892/dev-bhuyan">Stackoverflow</a> |
-    <a href="https://www.linkedin.com/in/dev-bhuyan">LinkedIn</a> |
-    <a href="https://www.instagram.com/dev_r_bhuyan/">Instagram</a>
+    <a href="https://stackoverflow.com/users/12171892/dev-bhuyan">
+        <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" />
+    </a> 
+    <a href="https://www.linkedin.com/in/dev-bhuyan">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    </a> 
+    <a href="https://www.instagram.com/dev_r_bhuyan/">
+        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+    </a>
 </p>
+
 
 <p align="center">
     Hi there! 👋 I'm Dev Bhuyan, an Electronics Engineer with a passion for Machine Learning and AI. I love to build Intelligent Machines. Welcome to my GitHub profile!
 </p>
 
-<h2 align="center">Technical Skills 🚀</h2>
+<h2 align="center">Top Skills 🚀</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,linux,c,matlab,pytorch,latex" alt="Technical Skills"/>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,linux,c,matlab,pytorch,latex,photoshop" alt="Technical Skills"/>
 </div>
 
 <h2 align="center">Projects 🛠️</h2>
@@ -32,16 +39,26 @@
 <h2 align="center">Stats 📊</h2>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBhuyan&layout=compact&theme=dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DevBhuyan&show_icons=true&theme=dark" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/DevBhuyan">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevBhuyan" />
+  </a>
+  
+  </div>
+
+<div align="center">
+  <a href="https://github.com/DevBhuyan">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=DevBhuyan&exclude_days=Sun" />
+  </a>
+  
 </div>
 
 <p align="center">
-    <a href="https://profile-counter.glitch.me/yourusername/count.svg">
-        <img src="https://profile-counter.glitch.me/yourusername/count.svg" alt="Profile Views"/>
+    <a href="https://profile-counter.glitch.me/DevBhuyan/count.svg">
+        <img src="https://profile-counter.glitch.me/DevBhuyan/count.svg" alt="Profile Views"/>
     </a>
-</p>
-
-<p align="center">
-    <img height="120" src="YOUR_LOGO_IMAGE_URL" alt="Your Logo" />
 </p>
