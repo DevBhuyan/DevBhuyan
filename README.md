@@ -15,7 +15,7 @@
 <h2 align="center">Technical Skills 🚀</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,linux,c,matlab,torch,tesseract,opencv,jupyter,latex" alt="Technical Skills"/>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,linux,c,matlab,pytorch,latex" alt="Technical Skills"/>
 </div>
 
 <h2 align="center">Projects 🛠️</h2>
