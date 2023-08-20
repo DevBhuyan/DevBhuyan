@@ -1,21 +1,21 @@
 <h1 align="center">
-    <img src="YOUR_PROFILE_IMAGE_URL" alt="Your Name" />
+    <img src="YOUR_PROFILE_IMAGE_URL" alt="Dev Bhuyan" />
 </h1>
 
 <p align="center">
-    <a href="YOUR_WEBSITE_URL">Portfolio</a> |
-    <a href="YOUR_LINKEDIN_URL">LinkedIn</a> |
-    <a href="YOUR_TWITTER_URL">Twitter</a>
+    <a href="https://stackoverflow.com/users/12171892/dev-bhuyan">Stackoverflow</a> |
+    <a href="https://www.linkedin.com/in/dev-bhuyan">LinkedIn</a> |
+    <a href="https://www.instagram.com/dev_r_bhuyan/">Instagram</a>
 </p>
 
 <p align="center">
-    Hi there! 👋 I'm [Your Name], an Electronics Engineer with a passion for Machine Learning and AI. Welcome to my GitHub profile!
+    Hi there! 👋 I'm Dev Bhuyan, an Electronics Engineer with a passion for Machine Learning and AI. I love to build Intelligent Machines. Welcome to my GitHub profile!
 </p>
 
 <h2 align="center">Technical Skills 🚀</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,tensorflow,linux" alt="Technical Skills"/>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,linux,c,matlab,torch,tesseract,opencv,jupyter,latex" alt="Technical Skills"/>
 </div>
 
 <h2 align="center">Projects 🛠️</h2>
