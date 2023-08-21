@@ -1,5 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 <h1 align="center">
     Dev Bhuyan
 </h1>
@@ -19,21 +17,35 @@
 <div align="center">
     I can build state-of-the-art ML pipelines using: </br>
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,openai gym,huggingface,xgboost,sklearn" alt="Technical Skills"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="OpenAI Gym"/>
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="HuggingFace"/>
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="XGBoost"/>
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="sklearn"/>
 </div>
 
 <div align="center">
     I'm good at working with: </br>
-    <img src="https://skillicons.dev/icons?i=Tesseract-OCR,OpenCV,Numpy,Pandas,Matplotlib,MySQL,nuitka,TKinter,LaTeX" alt="Technical Skills"/>
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Tesseract-OCR"/>
+    <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
+    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
+    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Matplotlib"/>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="nuitka"/>
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="TKinter"/>
+    <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX"/>
 </div>
 
 <div align="center">
     I can also work with: </br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,c++," alt="Technical Skills"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp" alt="Technical Skills"/>
 </div>
 
 <div align="center">
     My best combination: </br>
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,linux," alt="Technical Skills"/>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,linux" alt="Technical Skills"/>
 </div>
 
 <h2 align="center">Projects 🛠️</h2>
@@ -55,26 +67,40 @@ Hey! I also have a number of 'bucket-list' projects which you, and I, can bring 
   <a href="https://github.com/DevBhuyan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevBhuyan" />
   </a>
-  
-  </div> 
+</div> 
+
+<div align="center">
+  <a href="https://github.com/DevBhuyan">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevBhuyan" />
+  </a>
+</div> 
+
+<p align="center">
+    Interested to know more? Check out my Q&A on: <a href="https://stackoverflow.com/users/12171892/dev-bhuyan">
+        <img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow" />
+    </a>
+</p>
+
+<p align="center">
+    If you wanna have a closer look at my career: <a href="https://www.linkedin.com/in/dev-bhuyan/">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    </a>
+</p>
+
+<p align="center">
+    Perhaps, here's something if you like Photography📷: <a href="https://www.instagram.com/dev_r_bhuyan/">
+        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+    </a> </br>
+    At other times I also write reviews on Google maps, if you happen to reside near me, you might find me on Google maps as "Dev Bhuyan" (Local guide - level 6)
+</p>
+
+<p align="center">
+    
+    
+</p>
 
 <p align="center">
     <a href="https://profile-counter.glitch.me/DevBhuyan/count.svg">
         <img src="https://profile-counter.glitch.me/DevBhuyan/count.svg" alt="Profile Views"/>
     </a>
 </p>
-
-<p align="center">
-    Interested to know more? Check out my Q&A on: <a href="https://stackoverflow.com/users/12171892/dev-bhuyan"><img src="https://stackoverflow.com/users/flair/12171892.png" width="208" height="58" alt="profile for Dev Bhuyan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dev Bhuyan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> </br>
-    If you wanna have a closer look at my career: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="dev-bhuyan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/dev-bhuyan?trk=profile-badge">Devvjiit Bhuyan</a></div>
-               </br>
-    Perhaps, here's something if you like Photography📷: <a href="https://www.instagram.com/dev_r_bhuyan/">
-        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-    </a>
-    At other times I also write reviews on Google maps, if you happen to reside near me, you might find me on Google maps as "Dev Bhuyan" (Local guide - level 6)
-</p>
-<p align="center">
-    
-    
-</p>
-
