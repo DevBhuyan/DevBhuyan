@@ -39,23 +39,11 @@
 <h2 align="center">Stats 📊</h2>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBhuyan&layout=compact&theme=dark" alt="Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=DevBhuyan&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
-
-<div align="center">
   <a href="https://github.com/DevBhuyan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevBhuyan" />
   </a>
   
-  </div>
-
-<div align="center">
-  <a href="https://github.com/DevBhuyan">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=DevBhuyan&exclude_days=Sun" />
-  </a>
-  
-</div>
+  </div> 
 
 <p align="center">
     <a href="https://profile-counter.glitch.me/DevBhuyan/count.svg">
