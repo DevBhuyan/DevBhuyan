@@ -18,12 +18,12 @@
 
 <div align="center">
     Can build state-of-the-art ML pipelines using: </br>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="Technical Skills"/>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,openai gym,huggingface,xgboost,sklearn" alt="Technical Skills"/>
 </div>
 
 <div align="center">
-    Can build state-of-the-art ML pipelines using: </br>
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,linux,c,matlab,pytorch,latex,photoshop" alt="Technical Skills"/>
+    Is good at working with: </br>
+    <img src="https://skillicons.dev/icons?i=Tesseract-OCR,OpenCV,Numpy,Pandas,Matplotlib,MySQL,nuitka,TKinter,LaTeX,photoshop" alt="Technical Skills"/>
 </div>
 
 <h2 align="center">Projects 🛠️</h2>
