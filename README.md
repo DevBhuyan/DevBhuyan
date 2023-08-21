@@ -71,7 +71,7 @@ Hey! I also have a number of 'bucket-list' projects which you, and I, can bring 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevBhuyan" />
   </a>
   <a href="https://github.com/DevBhuyan">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevBhuyan&theme=default&utcOffset=8" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevBhuyan&theme=default&utcOffset=5.30" />
   </a>
 </div> 
 
