@@ -2,17 +2,7 @@
     Dev Bhuyan
 </h1>
 
-<p align="center">
-    <a href="https://stackoverflow.com/users/12171892/dev-bhuyan">
-        <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" />
-    </a> 
-    <a href="https://www.linkedin.com/in/dev-bhuyan">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-    </a> 
-    <a href="https://www.instagram.com/dev_r_bhuyan/">
-        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-    </a>
-</p>
+
 
 
 <p align="center">
@@ -22,6 +12,17 @@
 <h2 align="center">Top Skills 🚀</h2>
 
 <div align="center">
+    Can translate ideas to code using: </br>
+    <img src="https://skillicons.dev/icons?i=python,c,matlab,bash" alt="Technical Skills"/>
+</div>
+
+<div align="center">
+    Can build state-of-the-art ML pipelines using: </br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="Technical Skills"/>
+</div>
+
+<div align="center">
+    Can build state-of-the-art ML pipelines using: </br>
     <img src="https://skillicons.dev/icons?i=python,tensorflow,linux,c,matlab,pytorch,latex,photoshop" alt="Technical Skills"/>
 </div>
 
@@ -48,5 +49,20 @@
 <p align="center">
     <a href="https://profile-counter.glitch.me/DevBhuyan/count.svg">
         <img src="https://profile-counter.glitch.me/DevBhuyan/count.svg" alt="Profile Views"/>
+    </a>
+</p>
+
+<p align="center">
+    Find me on: </br>
+</p>
+<p align="center">
+    <a href="https://stackoverflow.com/users/12171892/dev-bhuyan">
+        <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" />
+    </a> 
+    <a href="https://www.linkedin.com/in/dev-bhuyan">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    </a> 
+    <a href="https://www.instagram.com/dev_r_bhuyan/">
+        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
     </a>
 </p>
