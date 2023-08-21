@@ -1,3 +1,4 @@
+<h2> IN PROGRESS.... </h2>
 <h1 align="center">
     Dev Bhuyan
 </h1>
@@ -16,7 +17,6 @@
 
 <div align="center">
     I can build state-of-the-art ML pipelines using: </br>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,openai gym,huggingface,xgboost,sklearn" alt="Technical Skills"/>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="OpenAI Gym"/>
@@ -67,13 +67,14 @@ Hey! I also have a number of 'bucket-list' projects which you, and I, can bring 
   <a href="https://github.com/DevBhuyan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevBhuyan" />
   </a>
-</div> 
-
-<div align="center">
   <a href="https://github.com/DevBhuyan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevBhuyan" />
   </a>
+  <a href="https://github.com/DevBhuyan">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevBhuyan&theme=default&utcOffset=8" />
+  </a>
 </div> 
+
 
 <p align="center">
     Interested to know more? Check out my Q&A on: <a href="https://stackoverflow.com/users/12171892/dev-bhuyan">
