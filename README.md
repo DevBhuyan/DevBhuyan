@@ -65,34 +65,44 @@ Hey! I also have a number of 'bucket-list' projects which you, and I, can bring 
 
 <div align="center">
   <a href="https://github.com/DevBhuyan">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevBhuyan" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevBhuyan" style="width: 68%;"/>
   </a>
   <a href="https://github.com/DevBhuyan">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevBhuyan" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevBhuyan" style="width: 34%;"/>
   </a>
   <a href="https://github.com/DevBhuyan">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevBhuyan&theme=default&utcOffset=5.30" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevBhuyan&theme=default&utcOffset=5.30" style="width: 34%;"/>
   </a>
 </div> 
 
+<h2 align="center">Connect with me</h2>
 
-<p align="center">
-    Interested to know more? Check out my Q&A on: <a href="https://stackoverflow.com/users/12171892/dev-bhuyan">
+<table align="center" style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td align="center">
+      Interested to know more? <br> Check out my Q&A on: <br><br>
+      <a href="https://stackoverflow.com/users/12171892/dev-bhuyan">
         <img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow" />
-    </a>
-</p>
-
-<p align="center">
-    If you wanna have a closer look at my career: <a href="https://www.linkedin.com/in/dev-bhuyan/">
+      </a>
+    </td>
+    <td align="center">
+      If you wanna have a <br> closer look at my career: <br><br>
+      <a href="https://www.linkedin.com/in/dev-bhuyan/">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-    </a>
-</p>
-
-<p align="center">
-    Perhaps, here's something if you like Photography📷: <a href="https://www.instagram.com/dev_r_bhuyan/">
+      </a>
+    </td>
+    <td align="center">
+      Perhaps, here's something if <br> you like Photography📷: <br> <br>
+      <a href="https://www.instagram.com/dev_r_bhuyan/">
         <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-    </a> </br>
-    At other times I also write reviews on Google maps, if you happen to reside near me, you might find me on Google maps as "Dev Bhuyan" (Local guide - level 6)
+      </a> 
+    </td>
+  </tr>
+</table>
+
+
+<p align="center">
+    At other times I also write reviews on Google Maps, if you happen to reside near me, you might find me on Google Maps as "Dev Bhuyan" (Local guide - level 6)
 </p>
 
 <p align="center">
@@ -101,6 +111,7 @@ Hey! I also have a number of 'bucket-list' projects which you, and I, can bring 
 </p>
 
 <p align="center">
+    Here I'm keeping a count of the number of visitors on this page 👇.  <br>
     <a href="https://profile-counter.glitch.me/DevBhuyan/count.svg">
         <img src="https://profile-counter.glitch.me/DevBhuyan/count.svg" alt="Profile Views"/>
     </a>
