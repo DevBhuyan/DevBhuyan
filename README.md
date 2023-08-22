@@ -1,4 +1,4 @@
-<h2> IN PROGRESS.... </h2>
+<h2> IN PROGRESS.... 🚧 </h2>
 <h1 align="center">
     Dev Bhuyan
 </h1>
@@ -11,12 +11,12 @@
 <h2 align="center">Top Skills 🚀</h2>
 
 <div align="center">
-    I can translate ideas to code using: </br>
+    I can translate ideas to code using: 💡 </br>
     <img src="https://skillicons.dev/icons?i=python,c,matlab,bash" alt="Technical Skills"/>
 </div>
 
 <div align="center">
-    I can build state-of-the-art ML pipelines using: </br>
+    I can build state-of-the-art ML pipelines using: ⚙️</br>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="OpenAI Gym"/>
@@ -54,12 +54,12 @@
     Here are some of my noteworthy projects:
 </p>
 
-- [SkinSeg](https://github.com/DevBhuyan/Unsup-Segmentation) - An experiment to create an unsupervised segmentation pipeline that can create segmentation masks of any given skin lesion image from the ISIC datasets. [Learn more](https://drive.google.com/file/d/176D-SWsVus7_6dfPSnIhaun2YDx_5Nv_/view)
-- [Reinforcement-Learning powered tic-tac-toe bot](https://github.com/DevBhuyan/RL-bot-for-tictactoe) - This bot quickly develops a personalized winning strategy by learning the player’s moves. [See it in action](https://github.com/DevBhuyan/RL-bot-for-tictactoe)
-- [Minesweeper](https://github.com/DevBhuyan/minesweeper) - My implementation of the classic minesweeper game using Python and TKinter. You can download the binary [here](https://github.com/DevBhuyan/minesweeper/blob/main/minesweeper.bin).
-- [IQATool](https://github.com/DevBhuyan/IQATool) - Another one of my favourites, this application was used to simulate various kinds of noises, and their cleaning methods in the context of Satellite and Aerial images. Was part of an internship work at NITK, Surathkal.
+- [SkinSeg](https://github.com/DevBhuyan/Unsup-Segmentation) 🔬 - An experiment to create an unsupervised segmentation pipeline that can create segmentation masks of any given skin lesion image from the ISIC datasets. 👉 [Learn more](https://drive.google.com/file/d/176D-SWsVus7_6dfPSnIhaun2YDx_5Nv_/view)
+- [Reinforcement-Learning powered tic-tac-toe bot](https://github.com/DevBhuyan/RL-bot-for-tictactoe) 🤖 - This bot quickly develops a personalized winning strategy by learning the player’s moves. [See it in action](https://github.com/DevBhuyan/RL-bot-for-tictactoe)
+- [Minesweeper](https://github.com/DevBhuyan/minesweeper) 💣 - My implementation of the classic minesweeper game using Python and TKinter. You can download the binary [here](https://github.com/DevBhuyan/minesweeper/blob/main/minesweeper.bin).
+- [IQATool](https://github.com/DevBhuyan/IQATool) 🔍- Another one of my favourites, this application was used to simulate various kinds of noises, and their cleaning methods in the context of Satellite and Aerial images. Was part of an internship work at NITK, Surathkal.
 
-Hey! I also have a number of 'bucket-list' projects which you, and I, can bring to life. Check [this](https://github.com/DevBhuyan/bucket-list) out
+Hey! I also have a number of 'bucket-list' 🪣 projects which you, and I, can bring to life. Check [this](https://github.com/DevBhuyan/bucket-list) out
 
 <h2 align="center">Stats 📊</h2>
 
@@ -75,7 +75,7 @@ Hey! I also have a number of 'bucket-list' projects which you, and I, can bring 
   </a>
 </div> 
 
-<h2 align="center">Connect with me</h2>
+<h2 align="center">Connect with me 📫</h2>
 
 <table align="center" style="width: 100%; border-collapse: collapse;">
   <tr>
@@ -102,7 +102,7 @@ Hey! I also have a number of 'bucket-list' projects which you, and I, can bring 
 
 
 <p align="center">
-    At other times I also write reviews on Google Maps, if you happen to reside near me, you might find me on Google Maps as "Dev Bhuyan" (Local guide - level 6)
+    At other times I also write reviews on Google Maps 🗺 , if you happen to reside near me 🌏 , you might find me on Google Maps as "Dev Bhuyan" (Local guide - level 6)
 </p>
 
 <p align="center">
