@@ -18,8 +18,8 @@
 <div align="center">
     I can build state-of-the-art ML pipelines using: ⚙️</br>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-    <img src="https://img.shields.io/badge/OpenAI%20Gym-dark%20green" alt="OpenAI Gym" height="29"/> <br>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> <br>
+    <img src="https://img.shields.io/badge/OpenAI%20Gym-dark%20green" alt="OpenAI Gym" height="29"/>
     <img src="https://img.shields.io/badge/HuggingFace-orange" alt="HuggingFace" height="29"/>
     <img src="https://img.shields.io/badge/XGBoost-blue" alt="XGBoost" height="29"/>
     <img src="https://img.shields.io/badge/sklearn-orange" alt="sklearn" height="29"/>
@@ -31,10 +31,10 @@
     <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" height="29"/>
     <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" height="29"/> <br>
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="29"/>
-    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Matplotlib" height="29"/>
+    <img src="https://img.shields.io/badge/matplotlib-blue" alt="Matplotlib" height="29"/>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="29"/> <br>
-    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="nuitka" height="29"/>
-    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="TKinter" height="29"/>
+    <img src="https://img.shields.io/badge/nuitka-black" alt="nuitka" height="29"/>
+    <img src="https://img.shields.io/badge/TKinter-black" alt="TKinter" height="29"/>
     <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX" height="29"/>
 </div>
 
