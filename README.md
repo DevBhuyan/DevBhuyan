@@ -10,13 +10,13 @@
 
 <h2 align="center">Top Skills 🚀</h2>
 
-<div align="center">
-    I can translate ideas to code using: 💡 </br>
+<div align="center"></br>
+    I can translate ideas to code using: 💡 </br></br>
     <img src="https://skillicons.dev/icons?i=python,c,matlab,bash" alt="Technical Skills"/>
 </div>
 
-<div align="center">
-    I can build state-of-the-art ML pipelines using: ⚙️</br>
+<div align="center"></br>
+    I can build state-of-the-art ML pipelines using: ⚙️</br></br>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> <br>
     <img src="https://img.shields.io/badge/OpenAI%20Gym-dark%20green" alt="OpenAI Gym" height="29"/>
@@ -25,8 +25,8 @@
     <img src="https://img.shields.io/badge/sklearn-orange" alt="sklearn" height="29"/>
 </div>
 
-<div align="center">
-    I'm good at working with: </br>
+<div align="center"></br>
+    I'm good at working with: </br></br>
     <img src="https://img.shields.io/badge/Tesseract-OCR-blue" alt="Tesseract-OCR" height="29"/>
     <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" height="29"/>
     <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" height="29"/> <br>
@@ -38,13 +38,13 @@
     <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX" height="29"/>
 </div>
 
-<div align="center">
-    I can also work with: </br>
+<div align="center"></br>
+    I can also work with: </br></br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp" alt="Technical Skills"/>
 </div>
 
-<div align="center">
-    My best combination: </br>
+<div align="center"></br>
+    My best combination: </br></br>
     <img src="https://skillicons.dev/icons?i=python,tensorflow,linux" alt="Technical Skills"/>
 </div>
 
