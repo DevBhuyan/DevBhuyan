@@ -59,7 +59,10 @@
 - [Minesweeper](https://github.com/DevBhuyan/minesweeper) 💣 - My implementation of the classic minesweeper game using Python and TKinter. You can download the binary [here](https://github.com/DevBhuyan/minesweeper/blob/main/minesweeper.bin).
 - [IQATool](https://github.com/DevBhuyan/IQATool) 🔍- Another one of my favourites, this application was used to simulate various kinds of noises, and their cleaning methods in the context of Satellite and Aerial images. Was part of an internship work at NITK, Surathkal.
 
-Hey! I also have a number of 'bucket-list' 🪣 projects which you, and I, can bring to life. Check [this](https://github.com/DevBhuyan/bucket-list) out
+Hey! I also have a number of 'bucket-list' 🪣 projects which you, and I, can bring to life. Check [this](https://github.com/DevBhuyan/bucket-list) out.
+
+You can also have a look at my other repositories, I'd be glad to give you a PR if you would like to contribute to, or help improve any of these projects.
+You can just fork the repository, and make a Pull-Request once you have some updates. I'd be happy to accept it😊
 
 <h2 align="center">Stats 📊</h2>
 
