@@ -46,7 +46,7 @@
 </div>
 
 <div align="center"></br>
-    I can also work with: </br></br>
+    I also have experience with: </br></br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp" alt="Technical Skills"/>
 </div>
 
