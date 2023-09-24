@@ -11,6 +11,13 @@
 <h2 align="center">Top Skills 🚀</h2>
 
 <div align="center"></br>
+    I have deployed services on: 💡 </br></br>
+    <img src="https://skillicons.dev/icons?i=firebase,gcp" alt="Technical Skills"/><br>
+    <img src="https://img.shields.io/badge/Render-green" alt="XGBoost" height="29"/>
+    <img src="https://img.shields.io/badge/cyclic-blue" alt="sklearn" height="29"/>
+</div>
+
+<div align="center"></br>
     I can translate ideas to code using: 💡 </br></br>
     <img src="https://skillicons.dev/icons?i=python,c,matlab,bash" alt="Technical Skills"/>
 </div>
