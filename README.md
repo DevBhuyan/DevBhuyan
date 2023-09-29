@@ -5,7 +5,7 @@
 
 
 <p align="center">
-    Hi there! 👋 I'm Dev Bhuyan, an Electronics Engineer with a passion for Machine Learning and AI. I love to build Intelligent Machines. I can help you translate an idea into a live deployed service. Welcome to my GitHub profile!
+    Hi there! 👋 I'm Dev Bhuyan, an MLOps Engineer. I love to build Intelligent Machines. I can help you translate an idea into a live deployed service. Welcome to my GitHub profile!
 </p>
 
 <h2 align="center">Top Skills 🚀</h2>
