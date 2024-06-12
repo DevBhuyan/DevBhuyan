@@ -94,7 +94,7 @@ You can just fork the repository, and make a Pull-Request once you have some upd
 </table>
 
 <p align="center">
-    At other times I also write reviews on Google Maps 🗺 , if you happen to reside near me 🌏 , you might find me on Google Maps as "Dev Bhuyan" (Local guide - level 6)
+    At other times I also write reviews on Google Maps 🗺 , if you happen to reside near me 🌏 , you might find me on Google Maps as "Dev Bhuyan" (Local guide - level 7)
 </p>
 
 <p align="center">
