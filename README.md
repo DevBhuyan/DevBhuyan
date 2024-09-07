@@ -5,7 +5,7 @@
 
 
 <p align="center">
-    Hi there! 👋 I'm Dev Bhuyan, a Machine Learning Engineer. I love to build Intelligent Machines. I can help you translate an idea into a live deployed service. Welcome to my GitHub profile!
+    Hi there! 👋 I'm Dev Bhuyan, a Machine Learning Engineer. I love to build Intelligent Machines. I can help you translate an idea into a deployed microservice. Welcome to my GitHub profile!
 </p>
 
 <h2 align="center">Tech Stack 🚀</h2>
