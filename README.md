@@ -11,7 +11,7 @@
 <h2 align="center">Tech Stack 🚀</h2>
 
 <div align="center"></br>
-    <img src="https://skillicons.dev/icons?i=gcp,linux,tensorflow,py,opencv" alt="Tech Stack"/><br>
+    <img src="https://skillicons.dev/icons?i=azure,linux,tensorflow,py,opencv" alt="Tech Stack"/><br>
 </div>
 
 <div align="center"></br>
