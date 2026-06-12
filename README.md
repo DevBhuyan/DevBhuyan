@@ -1,110 +1,183 @@
-<h2> [STALE DATA/NEED TO UPDATE] 🚧 </h2>
-<h1 align="center">
-    Dev Bhuyan
-</h1>
+# Hi, I'm Devvjiit Bhuyan 👋
 
+### Applied AI Engineer | AI Systems Engineer | Published Researcher
 
-<p align="center">
-    Hi there! 👋 I'm Dev Bhuyan, a Machine Learning Engineer. I love to build Intelligent Machines. I can help you translate an idea into a deployed microservice. Welcome to my GitHub profile!
+I build production-grade AI systems that bridge the gap between large language models and real-world enterprise workflows.
+
+My work spans:
+
+* Agentic AI Systems
+* Retrieval-Augmented Generation (RAG)
+* LLM Infrastructure & AI Gateways
+* Distributed AI Platforms
+* Privacy-Preserving Machine Learning
+* Responsible & Ethical AI
+
+Currently, I'm working on enterprise-scale AI solutions for financial services, building systems that automate document intelligence, workflow orchestration, root-cause analysis, and multimodal interactions.
+
+---
+
+## 🚀 What I Work On
+
+### AI Systems Engineering
+
+Building scalable AI platforms that can:
+
+* Route requests across multiple LLM providers
+* Manage quotas, rate limits, and failover
+* Support enterprise governance and observability
+* Operate in cloud, hybrid, and air-gapped environments
+
+### Agentic AI
+
+Designing autonomous AI workflows capable of:
+
+* Interpreting user interfaces
+* Retrieving domain knowledge
+* Executing business actions
+* Maintaining contextual memory
+* Coordinating multi-step enterprise processes
+
+### Applied Machine Learning
+
+Developing and deploying ML systems focused on:
+
+* Recommendation Systems
+* Computer Vision
+* Federated Learning
+* Responsible AI
+* Explainability & Fairness
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,bash" />
 </p>
 
-<h2 align="center">Tech Stack 🚀</h2>
+### AI & Machine Learning
 
-<div align="center"></br>
-    <img src="https://skillicons.dev/icons?i=azure,linux,tensorflow,py,opencv" alt="Tech Stack"/><br>
-</div>
-
-<div align="center"></br>
-    I can translate ideas to code using: 💡 </br></br>
-    <img src="https://skillicons.dev/icons?i=python,c,matlab,bash" alt="Technical Skills"/>
-</div>
-
-<div align="center"></br>
-    I can build state-of-the-art ML pipelines using: ⚙️</br></br>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> <br>
-    <img src="https://img.shields.io/badge/OpenAI-dark%20green" alt="OpenAI Gym" height="29"/>
-    <img src="https://img.shields.io/badge/Anthropic-brown" alt="Anthropic" height="29"/>
-    <img src="https://img.shields.io/badge/Transformers-orange" alt="HuggingFace" height="29"/>
-</div>
-
-<div align="center"></br>
-    I'm good with: </br></br>
-    <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" height="29"/>
-    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" height="29"/> <br>
-    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="29"/>
-    <img src="https://img.shields.io/badge/Streamlit-orange" alt="Streamlit" height="29"/>
-    <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX" height="29"/>
-</div>
-
-
-<h2 align="center">Personal Projects 🛠️</h2>
-
-<p align="center">
-    Here are some of my noteworthy projects:
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-- [SkinSeg](https://github.com/DevBhuyan/Unsup-Segmentation) 🔬 - An experiment to create an unsupervised segmentation pipeline that can create segmentation masks of any given skin lesion image from the ISIC datasets. 👉 [Learn more](https://drive.google.com/file/d/176D-SWsVus7_6dfPSnIhaun2YDx_5Nv_/view)
-- [Reinforcement-Learning powered tic-tac-toe bot](https://github.com/DevBhuyan/RL-bot-for-tictactoe) 🤖 - This bot quickly develops a personalized winning strategy by learning the player’s moves. [See it in action](https://github.com/DevBhuyan/RL-bot-for-tictactoe)
-- [Minesweeper](https://github.com/DevBhuyan/minesweeper) 💣 - My implementation of the classic minesweeper game using Python and TKinter. You can download the binary [here](https://github.com/DevBhuyan/minesweeper/blob/main/minesweeper.bin).
-- [IQATool](https://github.com/DevBhuyan/IQATool) 🔍- Another one of my favourites, this application was used to simulate various kinds of noises, and their cleaning methods in the context of Satellite and Aerial images. Was part of an internship work at NITK, Surathkal.
+LLMs • RAG • Agentic AI • LangChain • LangGraph • Transformers • Fine-Tuning • MCP
 
-Hey! I also have a number of 'bucket-list' 🪣 projects which you, and I, can bring to life. Check [this](https://github.com/DevBhuyan/bucket-list) out.
+### Infrastructure & Backend
 
-You can also have a look at my other repositories, I'd be glad to give you a PR if you would like to contribute to, or help improve any of these projects.
-You can just fork the repository, and make a Pull-Request once you have some updates. I'd be happy to accept it😊
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,postgresql,redis,fastapi" />
+</p>
 
-<h2 align="center">Stats 📊</h2>
+### Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure" />
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+### OpenBalancer
+
+An open-source load balancer and routing platform for LLM inference.
+
+**Highlights**
+
+* OpenAI-compatible APIs
+* Multi-provider routing
+* Quota-aware scheduling
+* Automatic failover
+* Circuit breakers
+* Health scoring
+* Support for cloud and self-hosted models
+
+---
+
+### Ethical Dashboard
+
+A model-agnostic Responsible AI evaluation platform for benchmarking:
+
+* Fairness
+* Robustness
+* Privacy Preservation
+* Explainability
+
+Used within academic research initiatives to evaluate machine learning systems across multiple ethical dimensions.
+
+---
+
+### Enterprise AI Gateway
+
+A self-hosted AI platform featuring:
+
+* Multi-tenant architecture
+* Usage analytics
+* Centralized governance
+* Token accounting
+* API management
+* OpenAI-compatible endpoints
+
+---
+
+## 📚 Research
+
+### Cost-Effective Feature Selection for Horizontal Federated Learning
+
+Published in IEEE Transactions on Artificial Intelligence.
+
+Introduced a federated feature selection approach achieving significant dimensionality reduction while improving training efficiency.
+
+### A Multidimensional Approach to Ethical AI Auditing
+
+Published at AAAI/ACM AIES.
+
+Focused on practical frameworks for evaluating fairness, robustness, privacy preservation, and explainability in machine learning systems.
+
+---
+
+## 🏆 Highlights
+
+* IEEE Transactions Reviewer
+* Published Researcher (IEEE & AAAI)
+* Kaggle Medalist
+* Applied AI Engineer with enterprise deployment experience
+* Open Source Contributor
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/DevBhuyan">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevBhuyan" style="width: 68%;"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevBhuyan" width="70%"/>
   </a>
-  <a href="https://github.com/DevBhuyan">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevBhuyan" style="width: 34%;"/>
-  </a>
-  <a href="https://github.com/DevBhuyan">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevBhuyan&theme=default&utcOffset=5.30" style="width: 34%;"/>
-  </a>
-</div> 
+</div>
 
-<h2 align="center">Connect with me 📫</h2>
+---
 
-<table align="center" style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td align="center">
-      Interested to know more? <br> Check out my Q&A on: <br><br>
-      <a href="https://stackoverflow.com/users/12171892/dev-bhuyan">
-        <img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow" />
-      </a>
-    </td>
-    <td align="center">
-      If you wanna have a <br> closer look at my career: <br><br>
-      <a href="https://www.linkedin.com/in/dev-bhuyan/">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center">
-      Perhaps, here's something if <br> you like Photography📷: <br> <br>
-      <a href="https://www.instagram.com/dev_r_bhuyan/">
-        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-      </a> 
-    </td>
-  </tr>
-</table>
+## 🤝 Let's Connect
 
-<p align="center">
-    At other times I also write reviews on Google Maps 🗺 , if you happen to reside near me 🌏 , you might find me on Google Maps as "Dev Bhuyan" (Local guide - level 7)
-</p>
+### LinkedIn
 
-<p align="center">
-    
-    
-</p>
+https://linkedin.com/in/dev-bhuyan
 
-<p align="center">
-    Here I'm keeping a count of the number of visitors on this page 👇.  <br>
-    <a href="https://profile-counter.glitch.me/DevBhuyan/count.svg">
-        <img src="https://profile-counter.glitch.me/DevBhuyan/count.svg" alt="Profile Views"/>
-    </a>
-</p>
+### Kaggle
+
+https://kaggle.com/devbhuyan
+
+### Stack Overflow
+
+https://stackoverflow.com/users/12171892/dev-bhuyan
+
+### ORCID
+
+https://orcid.org/0009-0007-2811-296X
+
+---
+
+> Building intelligent systems that are useful, reliable, and deployable in the real world.
